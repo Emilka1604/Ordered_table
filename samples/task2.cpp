@@ -10,5 +10,6 @@ void main() {
 	b.insert(9, "dchd");
 	b.remove(43);
 	std::cout << b;
+
 	
 }

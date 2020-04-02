@@ -420,6 +420,7 @@ public:
 	{
 		delete[] mas;
 	}
+
 	int search(int key, int left_border, int right_border)
 	{
 		if (left_border > right_border || size == 0)
